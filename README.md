@@ -1,5 +1,3 @@
-# wevaro-
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -871,7 +869,7 @@
           <div class="ci-icon">✉</div>
           <div>
             <div class="ci-label">Email Us</div>
-            <div class="ci-value">hello@wevora.com</div>
+            <div class="ci-value">mansurkalaam0508@gmail.com</div>
           </div>
         </div>
         <div class="contact-item">
@@ -1040,4 +1038,3 @@
 </script>
 </body>
 </html>
-```
